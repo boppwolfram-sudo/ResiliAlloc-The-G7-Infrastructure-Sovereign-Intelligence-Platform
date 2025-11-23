@@ -10,7 +10,7 @@ Physics-Informed Learning: Unlike "Black Box" AI, our model is constrained by th
 Federated Ground Truth: We solve the "missing data" problem by training on validated engineering records from the USA, UK, and Quebec, transferring this intelligence to local assets via Pseudo-Labeling.
 
 -----------------------------------------------------------------------------------------------------------------------------
-3. Economic Theory: The "Waste" Argument
+2. Economic Theory: The "Waste" Argument
 Our solution is grounded in the reliability engineering concept of the P-F Curve (Potential Failure to Functional Failure).
 Waste Type A (Premature Maintenance): Repaving a road at Year 15 when it could last to Year 20 wastes 25% of the capital investment.
 Waste Type B (Catastrophic Failure): Allowing a bridge to reach "Functional Failure" necessitates emergency procurement, overtime labor, and economic disruption costs that far exceed planned maintenance.
@@ -19,7 +19,7 @@ $$\text{Minimize} \sum (\text{Cost of Intervention}) + (\text{Risk of Failure} \
 By pinpointing the optimal intervention window, we maximize asset utility while preventing expensive emergency failures.
 
 -----------------------------------------------------------------------------------------------------------------------------
-5. The "Grandmaster" Data Ecosystem
+3. The "Grandmaster" Data Ecosystem
 Our data strategy relies on a 4-Stream Fusion Engine, combining foundational open data with high-tech proxy indicators.
 
 Layer 1: The Asset Reality (Where is it?)
